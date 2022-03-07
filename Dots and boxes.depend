@@ -1,0 +1,149 @@
+# depslib dependency file v1.0
+1641479939 source:c:\users\bluray\desktop\dots and boxes\main.c
+	<stdio.h>
+	<stdlib.h>
+	"color.h"
+	"PrintArrays.h"
+	"play.h"
+
+1640438930 source:c:\users\bluray\desktop\dots and boxes\color.c
+	<stdio.h>
+	<stdlib.h>
+
+1640423857 source:c:\users\bluray\desktop\dots and boxes\printarrays.c
+	<stdio.h>
+	<stdlib.h>
+	"color.h"
+
+1640438930 c:\users\bluray\desktop\dots and boxes\color.h
+
+1640332481 c:\users\bluray\desktop\dots and boxes\printarrays.h
+
+1640522788 source:c:\users\bluray\desktop\dots and boxes\game loop.c
+
+1640520361 source:c:\users\bluray\desktop\dots and boxes\scandecimal.c
+
+1641655160 source:c:\users\bluray\desktop\dots and boxes\play.c
+	"struct.c"
+	"printArrays.h"
+	<string.h>
+	<stdio.h>
+	"Game.h"
+	<time.h>
+
+1641051336 c:\users\bluray\desktop\dots and boxes\play.h
+
+1641546497 source:c:\users\bluray\desktop\dots and boxes\struct.c
+
+1640540343 source:c:\users\bluray\desktop\dots and boxes\setplayers.c
+	"struct.c"
+	<stdio.h>
+	<string.h>
+
+1641546497 c:\users\bluray\desktop\dots and boxes\struct.c
+
+1641659312 source:c:\users\bluray\desktop\dots and boxes\gameloop.c
+	"HexaScan.h"
+	<stdio.h>
+	"Computer.h"
+	"printGame.h"
+	<stdlib.h>
+	"CheckBoxes.h"
+	<time.h>
+
+1641212081 source:c:\users\bluray\desktop\dots and boxes\hexascan.c
+	<string.h>
+	<stdio.h>
+
+1641655160 source:c:\users\bluray\desktop\dots and boxes\computer.c
+	<stdlib.h>
+	<stdio.h>
+
+1641547413 source:c:\users\bluray\desktop\dots and boxes\game_print.c
+	<time.h>
+
+1640716193 c:\users\bluray\desktop\dots and boxes\hexascan.h
+
+1641655160 c:\users\bluray\desktop\dots and boxes\computer.h
+
+1641655160 c:\users\bluray\desktop\dots and boxes\game.h
+
+1641475618 c:\users\bluray\desktop\dots and boxes\printgame.h
+
+1641655160 source:c:\users\bluray\desktop\dots and boxes\checkboxes.c
+
+1641655160 c:\users\bluray\desktop\dots and boxes\checkboxes.h
+
+1641767648 source:c:\users\bluray\desktop\testtest\checkboxes.c
+
+1641767648 source:c:\users\bluray\desktop\testtest\color.c
+	<stdio.h>
+	<stdlib.h>
+
+1641767648 source:c:\users\bluray\desktop\testtest\computer.c
+	<stdlib.h>
+	<stdio.h>
+
+1641767648 source:c:\users\bluray\desktop\testtest\game_print.c
+	<time.h>
+
+1641767648 source:c:\users\bluray\desktop\testtest\hexascan.c
+	<string.h>
+	<stdio.h>
+
+1641767648 source:c:\users\bluray\desktop\testtest\main.c
+	<stdio.h>
+	<stdlib.h>
+	"color.h"
+	"PrintArrays.h"
+	"play.h"
+	"Struct.h"
+
+1640438930 c:\users\bluray\desktop\testtest\color.h
+
+1640332481 c:\users\bluray\desktop\testtest\printarrays.h
+
+1641730050 c:\users\bluray\desktop\testtest\play.h
+	"Struct.h"
+
+1641767752 source:c:\users\bluray\desktop\testtest\play.c
+	"printArrays.h"
+	<string.h>
+	<stdio.h>
+	"Game.h"
+	<time.h>
+	"Struct.h"
+
+1641675974 c:\users\bluray\desktop\testtest\struct.c
+
+1641767648 c:\users\bluray\desktop\testtest\game.h
+	"Struct.h"
+
+1640423857 source:c:\users\bluray\desktop\testtest\printarrays.c
+	<stdio.h>
+	<stdlib.h>
+	"color.h"
+
+1641729989 source:c:\users\bluray\desktop\testtest\struct.c
+
+1641767648 source:c:\users\bluray\desktop\testtest\gameloop.c
+	"HexaScan.h"
+	<stdio.h>
+	"Computer.h"
+	"printGame.h"
+	<stdlib.h>
+	"CheckBoxes.h"
+	<time.h>
+	<string.h>
+	"Struct.h"
+
+1640716193 c:\users\bluray\desktop\testtest\hexascan.h
+
+1641655160 c:\users\bluray\desktop\testtest\computer.h
+
+1641475618 c:\users\bluray\desktop\testtest\printgame.h
+
+1641655160 c:\users\bluray\desktop\testtest\checkboxes.h
+
+1641767648 c:\users\bluray\desktop\testtest\struct.h
+

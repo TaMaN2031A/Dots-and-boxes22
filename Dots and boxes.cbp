@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Dots and boxes" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Dots and boxes" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Dots and boxes" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="CheckBoxes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="CheckBoxes.h" />
+		<Unit filename="Computer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Computer.h" />
+		<Unit filename="Game.h" />
+		<Unit filename="GameLoop.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Game_Print.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="HexaScan.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="HexaScan.h" />
+		<Unit filename="Struct.h" />
+		<Unit filename="color.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="color.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="play.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="play.h" />
+		<Unit filename="printGame.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
